@@ -518,6 +518,13 @@ main .container .left .profile {
 .right .messages .message p{
     font-size: 0.8rem;
   }
+.right .messages .message .profile-photo .active{
+    width: 0.8rem;
+    height: 0rem;
+    border-radius: 50%;
+    border: 3px solid var(--color-white);
+    font-size: 0.8rem;
+  }
 
 
 
